@@ -37,11 +37,11 @@
 
 ## Screen Shots:
 
-- MORE INFO TO BE ADDES
+- MORE INFO TO BE ADDED
 
 ## Heroku Link:
 
-- MORE INFO TO BE ADDES
+- MORE INFO TO BE ADDED
 
 ## License:
 
