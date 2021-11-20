@@ -1,4 +1,73 @@
-# Getting Started with Create React App
+# My Life Today [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents:
+
+- [Description](#description)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [How to Contribute](#how-to-contribute)
+- [Contact](#contact)
+
+## Description:
+
+'My Life Today' is a digital journalling application that allows the user to:
+
+- Login
+- Create
+- Read
+- Update and
+- Delete a journal entry.
+- MORE INFO TO BE ADDED
+
+## Acceptance Criteria:
+
+- AS A USER I want to be able to log in
+- AS A USER I want to be greeted by a landing/home page with a row of emojis where I can express how I’m feeling
+- AS A USER I would like the option to confirm my feelings using emojis
+- AS A USER I would like to make retrospective journal entries
+- AS A USER I would like to have the option to write, review, update or delete my journal entries
+- AS A USER I would like to receive daily affirmations
+- AS A USER I would like to have the option to freestyle my journal entries or receive a selection of prompts to help me to process my thoughts
+- AS A USER I would like to login using a unique user ID & password
+- AS A USER I would like the option to share my journal entries
+- AS A USER I would like to be able to make notes to organise myself
+- AS A USER I would like make task only entries
+
+## Screen Shots:
+
+- MORE INFO TO BE ADDES
+
+## Heroku Link:
+
+- MORE INFO TO BE ADDES
+
+## License:
+
+This project is covered under the MIT License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## How to Contribute
+
+Either fork the repository `Its My Life` or contact `Jai C-Bee` using the details shown below:
+
+## Email:
+
+<!-- - Aisha Yasin: -->
+
+- Carol Gordon: carol2gordon1@yahoo.co.uk
+- Jacqie Williamson: jacqieq@me.com
+<!-- - Nouha Rakeeb: nouha_rakeeb@hotmail.co.uk -->
+
+## Git Hub:
+
+<!-- - [aisha-ysn](https://github.com/aisha-ysn), -->
+
+- [cgordon-bee](https://github.com/cgordon-bee),
+- [jacqieq6464](https://github.com/jacqieq6464).
+<!-- - [nrakeeb](https://github.com/nrakeeb). -->
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +136,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
