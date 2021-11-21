@@ -36,5 +36,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Table of Contents:",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacqieq6464/its-my-life.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jacqieq6464/its-my-life/issues"
+  },
+  "homepage": "https://github.com/Jacqieq6464/its-my-life#readme"
 }
