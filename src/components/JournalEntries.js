@@ -1,6 +1,4 @@
 const JournalEntries = ({journalEntries}) => {
-
-
     return (
         <>
         {journalEntries.map((journal) => (
