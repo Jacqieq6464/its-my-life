@@ -1,9 +1,8 @@
-import React from 'react'
 
 const JournalEntry = () => {
     return (
-        <div className="task">
-            
+        <div className="journal">
+            <h3>My Journal</h3>
         </div>
     )
 }
