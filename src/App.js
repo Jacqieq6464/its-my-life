@@ -29,8 +29,9 @@ function App() {
 ])
 
 //Delete tasks/journal entry
-const deleteTask =(id) => {
-console.log ('delete', id)
+const deleteTask = (id) => {
+  setTasks(tasks.filter((task) => task.id !==id
+))
 
 }
 
@@ -38,8 +39,17 @@ console.log ('delete', id)
   return (
     <div className="container">
       <Header />
-      <Tasks tasks={tasks} onDelete=
+      {tasks.length > 0 ? (
+        <Tasks tasks={tasks} onDelete=
       {deleteTask} />
+      ): (
+        'No tasks to show!  Its a good time to start'
+
+      )
+      }
+
+      
+    
       
     </div>
   );
