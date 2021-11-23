@@ -1,33 +1,37 @@
 import { useState } from 'react'
 import Header from "./components/Header"
-import JournalEntries from "./components/JournalEntries"
+import Tasks from "./components/Tasks"
+
 
 
 function App() {
-  const [journalEntries, setJournals] = useState([
-  {id: 1,
-      text: 'Journal Entry Monday',
-      time: 'am/pm',
-      reminder: 'true',
-  },
-  
-  {id: 2,
-      text:'Journal Entry Tuesday',
-      time: 'am/pm', 
-      reminder: 'true',
-  },
-  
-  {id: 3,
-      text:'Journal Entry Wednesday',
-      time: 'am/pm',
-      reminder: 'true', 
-  }
-  ])
-  
+  const [tasks, setTasks] = useState ([
+
+    {id: 1,
+        text: 'Begin Journal',
+        time: 'am/pm',
+        reminder: 'true',
+    },
+    
+    {id: 2,
+        text:'Update Journal',
+        time: 'am/pm', 
+        reminder: 'true',
+    },
+    
+    {id: 3,
+        text:'Time to reflect',
+        time: 'am/pm',
+        reminder: 'true', 
+    
+    },
+
+])
   return (
     <div className="container">
       <Header />
-      <JournalEntries journalEntries={journalEntries}/>
+      <Tasks tasks={tasks}/>
+      
     </div>
   );
 }
